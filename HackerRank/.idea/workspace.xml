@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="03140160-ad3a-45eb-8a13-ac72c10c4c10" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../ServletApplication/ServletApplication.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ServletApplication/src/com/tennisrank/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ServletApplication/src/com/tennisrank/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ServletApplication/src/com/tennisrank/dao/PlayersDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ServletApplication/src/com/tennisrank/dao/UserDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ServletApplication/src/com/tennisrank/web/Cookies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ServletApplication/src/com/tennisrank/web/Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ServletApplication/src/com/tennisrank/web/Logout.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ServletApplication/src/com/tennisrank/web/NewPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ServletApplication/src/com/tennisrank/web/SearchPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ServletApplication/src/com/tennisrank/web/WebInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ServletApplication/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ServletApplication/web/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="03140160-ad3a-45eb-8a13-ac72c10c4c10" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -105,20 +90,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OutputFormatting.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="OutputFormatting.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/hackerrank/introduction/OutputFormatting.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="238">
+              <caret line="14" column="52" lean-forward="true" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Map.class" pinned="false" current-in-tab="false">
-        <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/Map.class">
+      <file leaf-file-name="WelcomeToJava.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/hackerrank/introduction/WelcomeToJava.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2975">
-              <caret line="175" column="14" selection-start-line="175" selection-start-column="14" selection-end-line="175" selection-end-column="14" />
+            <state relative-caret-position="187">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -204,9 +189,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -243,6 +225,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -396,6 +381,7 @@
       <updated>1529351192799</updated>
       <workItem from="1530205866268" duration="11335000" />
       <workItem from="1530281716599" duration="52000" />
+      <workItem from="1530572635704" duration="430000" />
     </task>
     <task id="LOCAL-00001" summary="HackerRank Java introduction challenges">
       <created>1529713863487</created>
@@ -436,7 +422,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11387000" />
+    <option name="totallyTimeSpent" value="11817000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="25" width="1922" height="1056" extended-state="6" />
@@ -444,6 +430,7 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32914045" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -451,7 +438,7 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.30083856" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30083856" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -470,7 +457,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32914045" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -769,13 +755,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/introduction/WelcomeToJava.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/hackerrank/introduction/CurrencyFormatter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -799,7 +778,7 @@
     </entry>
     <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/Map.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2975">
+        <state relative-caret-position="2873">
           <caret line="175" column="14" selection-start-line="175" selection-start-column="14" selection-end-line="175" selection-end-column="14" />
         </state>
       </provider>
@@ -883,8 +862,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/hackerrank/introduction/OutputFormatting.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="238">
+          <caret line="14" column="52" lean-forward="true" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/introduction/WelcomeToJava.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
