@@ -13,7 +13,6 @@ public class PatternSyntax
         int testCases = Integer.parseInt(in.nextLine());
         while(testCases>0){
             String pattern = in.nextLine();
-            //PatternSyntaxException pse = null;
             try {
                 Pattern.compile(pattern);
                 System.out.println("123");
